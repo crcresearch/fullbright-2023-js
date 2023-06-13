@@ -10,6 +10,7 @@
 - Examples, Examples, Examples.
 - Retrieving Data from a sources using ajax.
 - Questions.
+- Teams.
 
 ## What is JavaScript (JS)?
 
@@ -31,6 +32,8 @@
 ## Frameworks and Libraries.
 
 https://vuejs.org/guide/introduction.html
+
+https://ionicframework.com/
 
 https://vuejs.org/guide/quick-start.html#using-vue-from-cdn
 
